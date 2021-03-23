@@ -1,2 +1,1 @@
-# radesadmin
- Frontend panelu
+# Rades Admin Frontend Redesign
